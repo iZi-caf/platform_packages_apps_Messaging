@@ -348,4 +348,5 @@
     text="click here" and url="www.google.com", using the below format to create "click here (www.google.com)" -->
   <!-- The accessibility text read when the sim chooser pops up to read the current selected sim -->
   <!-- Swipe to delete -->
+  <!-- Audio Library Tab for MMS attachments -->
 </resources>

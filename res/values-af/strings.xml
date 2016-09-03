@@ -841,4 +841,5 @@
   <!-- The accessibility text read when the sim chooser pops up to read the current selected sim -->
   <string name="selected_sim_content_message"><xliff:g id="SELECTED_SIM">%s</xliff:g> gekies</string>
   <!-- Swipe to delete -->
+  <!-- Audio Library Tab for MMS attachments -->
 </resources>
