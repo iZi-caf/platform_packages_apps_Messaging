@@ -818,5 +818,13 @@
   <!-- The accessibility text read when the sim chooser pops up to read the current selected sim -->
   <string name="selected_sim_content_message">已选择<xliff:g id="SELECTED_SIM">%s</xliff:g></string>
   <!-- Swipe to delete -->
+  <string name="swipe_deletes_conversation_text">滑动删除对话</string>
   <!-- Audio Library Tab for MMS attachments -->
+  <string name="mediapicker_galleryChooserDescription_cm">从设备中选取图像或视频</string>
+  <string name="mediapicker_audioListChooserDescription">从设备中选取音频</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">无法附加视频。附件大小超过最大上限。</string>
+  <string name="mediapicker_audio_list_title">选择音频</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">已选择该音频 。</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">已取消选中该音频 。</string>
+  <string name="mediapicker_audio_list_title_selection">已选择 <xliff:g id="COUNT">%d</xliff:g> 个附件</string>
 </resources>
